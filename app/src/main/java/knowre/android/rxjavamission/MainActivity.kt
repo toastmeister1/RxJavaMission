@@ -6,6 +6,7 @@ import android.text.Editable
 import android.text.TextWatcher
 import dagger.hilt.android.AndroidEntryPoint
 import knowre.android.rxjavamission.databinding.ActivityMainBinding
+import rx.Observable
 
 @AndroidEntryPoint
 class MainActivity : AppCompatActivity() {
